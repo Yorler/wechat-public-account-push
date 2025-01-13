@@ -12,8 +12,8 @@ const USER_CONFIG = {
   // 使用微信测试号：公众号APP_SECRET
   APP_SECRET: 'c7713eceb55a7871ffa4e8416b84837f',
 
-  PROVINCE: '安徽',
-  CITY: '宣城',
+  PROVINCE: '山东',
+  CITY: '济南',
 
   USERS: [
     {
@@ -22,7 +22,7 @@ const USER_CONFIG = {
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'oFsdI7G8xOfZ8MGboBNO0EiZYno0',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: 'wnIWvCNwvXxiWDIX18Zkjf3vPSnObLq_l4sFqscNoOg',
+      useTemplateId: 'CsdLRIIlEMXRscrO1ZNpl2AzpbDKi-_g7qh0LuateAw',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '12-27',
       festivals: [
@@ -42,9 +42,9 @@ const USER_CONFIG = {
         },
         {
           type: '节日',
-          name: '放假！！！',
+          name: '过年！！！',
           year: '2025',
-          date: '01-15',
+          date: '01-28',
         },
       ],
       // 我们在一起已经有xxxx天了的配置
